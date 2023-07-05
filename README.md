@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmed</h1>
-<h3 align="center">A passionate FullStacck developer from Tunisia</h3>
+<h3 align="center">FullStack developer from Tunisia</h3>
 
 - 💬 Ask me about **Angular , ExpressJS , NodeJS , MongoDB**
 
